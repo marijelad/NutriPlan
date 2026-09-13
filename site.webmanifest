@@ -1,0 +1,9 @@
+{
+  "name": "NutriPlan",
+  "short_name": "NutriPlan",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#16a34a",
+  "icons": []
+}
